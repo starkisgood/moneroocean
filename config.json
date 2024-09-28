@@ -8,7 +8,7 @@
         {
             "coin": "monero",
             "algo": null,
-            "url": "gulf.moneroocean.stream:20128",
+            "url": "gulf.moneroocean.stream:10128",
             "user": "46vJsYHDfkK5a9WyVADDgRDac6gSdSx7VVPLkM7BtwHwGzoonfSyRWhWCxufU7bX4hNFZ13GdrCwSPX9oxEJDiwAUiUDkDJ",
             "pass": "x",
             "tls": false,
